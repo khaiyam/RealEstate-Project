@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.banner img{
+	width: 100%;
+}
+.rooms{
+	background: #f7f7f7;
+}
+
+.rooms img{
+
+	width: 100px;
+	padding:5px;
+}
